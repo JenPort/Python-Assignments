@@ -1,4 +1,4 @@
-# A BMI Calculator that doesn't make you feel too bad
+# A BMI Calculator that doesn't make you feel to bad
 def calculate_bmi(weight, height):
     bmi = weight / (height ** 2)
     return bmi
